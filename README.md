@@ -26,7 +26,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 ---
 
-    <h3>Skills</h3>
+   <h3>Skills</h3>
 
 ---
 
@@ -37,7 +37,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 ---
 
-    Contact me
+   <h3>Contact me</h3>
 
 ---
 
