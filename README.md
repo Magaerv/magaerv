@@ -10,7 +10,7 @@
 
 ---
 
-    About me
+   <h3>About me</h3>
 
 ---
 
@@ -26,7 +26,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 ---
 
-    Skills
+    <h3>Skills</h3>
 
 ---
 
