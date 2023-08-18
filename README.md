@@ -21,7 +21,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 </p>
 
 - 🔭 I’m currently working on [MyPortfolio](https://magaerv.dev)
-- 🌱 I'm currently learning Oracle Cloud Infrastructure and Project Management.
+- 🌱 I'm currently learning <b>Oracle Cloud Infrastructure</b> and <b>Project Management</b>.
 - 💬 Ask me about JavaScript, React, Redux, Node.js
 
 
