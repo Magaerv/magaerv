@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fbe124&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07c28f&height=120&section=header"/>
+
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h3 align="center">
   Welcome to Mariela's profile!
@@ -20,38 +22,15 @@
 - 💬 Ask me about JavaScript, React, Redux, Node.js
 
 ### Skills
+
 - Frontend: HTML, CSS, JavaScript, React, Redux
 - Backend: Node.js, Express, PostgreSQL, MySQL, Sequelize
-- Tools: Git, VS Code, 
+- Tools: Git, VS Code,
 
-********
+---
+
 <div align="center">
 
 <h3 align="left">Skills:</h3>
 
-
-********
-
-<h1 align="center"> PROJECTS </h1>
-
-## <a href="https://github.com/MJULIAN90/Health-System" target="_blank">Health System</a>
-<p>Lorem lorem lorem....</p>
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/182281334-c9668c48-7148-4034-8da1-23e8bf201799.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/182282339-1704c72a-1c33-4f58-8811-1c1f6c270e34.png" width="32%" height='250px'>
-</p>
-<br/>
-
-## <a href="https://github.com/MJULIAN90/Health-System" target="_blank">Health System</a>
-<p>Lorem lorem lorem....</p>
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/182281334-c9668c48-7148-4034-8da1-23e8bf201799.png" width="32%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/58791994/182282339-1704c72a-1c33-4f58-8811-1c1f6c270e34.png" width="32%" height='250px'>
-</p>
-<br/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fbe124&height=120&section=footer"/>
+---
