@@ -10,7 +10,7 @@
 </p>
 
 ********
-<h3><b>About me</b></h3>
+    About me
 
 ---
 <p>I'm a fullstack developer currently living in <b>Córdoba, Argentina</b>. I studied at the Intensive Bootcamp by Soy Henry, where I delved into over 800 hours of coding. Some of my technologies include ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, and GitHub. I'm highly curious and self-taught, and I thoroughly enjoy the opportunity to learn from others and share my knowledge with fellow individuals.
@@ -26,7 +26,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 
 ********
-<h3><b>Skills</b></h3>
+    Skills
 
 ---
 - Frontend: HTML, CSS, JavaScript, React, Redux
@@ -35,7 +35,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 
 ********
-<h3><b>Contact me</b></h3>
+    Contact me
 
 ---
 ✔ Linkedin: <a href="https://www.linkedin.com/in/mariela-ramirez-valle/">https://www.linkedin.com/in/mariela-ramirez-valle/</a> <br/>
