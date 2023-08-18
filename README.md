@@ -25,8 +25,8 @@
 
     Front End 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2019%2F06%2Fexpress-js-logo.png&f=1&nofb=1" width="60" alt="HTML"> |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| CSS3 | BOOTSTRAP | HTML5 | JAVASCRIPT | REACT JS | REDUX | EXPRESS |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| CSS3 | BOOTSTRAP | HTML5 | JAVASCRIPT | REACT JS | REDUX | EXPRESS | NODE JS | POSTGRESQL | SEQUELIZE |
 
     Otras Herramientas:
     
