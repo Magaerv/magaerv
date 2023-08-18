@@ -19,15 +19,16 @@
 I'm always engaged in continuous learning to improve myself both professionally and personally, striving to become better with each passing day.
 </p>
 
+
+
 - 🔭 I’m currently working on [MyPortfolio](https://magaerv.dev)
 - 🌱 I'm currently learning Oracle Cloud Infrastructure and Project Management.
 - 💬 Ask me about JavaScript, React, Redux, Node.js
 
 ---
 
-<div align="center">
-
-<h3 align="left">Skills:</h3>
+********
+Skills:
 
 - Frontend: HTML, CSS, JavaScript, React, Redux
 - Backend: Node.js, Express, PostgreSQL, MySQL, Sequelize
@@ -35,8 +36,9 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 ---
 
+********
+Contact me:
 
-<div align="center">
-
-<h3 align="left">Contact me:</h3>
-
+✔ Linkedin: <a href="https://www.linkedin.com/in/mariela-ramirez-valle/">https://www.linkedin.com/in/mariela-ramirez-valle/</a> <br/>
+✔ WP: <a href="https://api.whatsapp.com/send?phone=543516574242&text=Hola!%20Vi%20tu%20Github%20page.">+54 351 657 42 42</a> (Móvil) <br/>
+✔ E-mail: magaerv.dev@gmail.com <br/>
