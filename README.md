@@ -21,7 +21,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 </p>
 
 - 🔭 I’m currently working on [MyPortfolio](https://magaerv.dev)
-- 🌱 I'm currently learning <b>Project Management</b>.
+- 🌱 I'm currently learning <b>Google Professional Certificate in User Experience (UX) Design</b>.
 - 💬 Ask me about JavaScript, React, Redux, Node.js
 
 
