@@ -21,7 +21,7 @@ I'm always engaged in continuous learning to improve myself both professionally 
 </p>
 
 - 🔭 I’m currently working on [MyPortfolio](https://magaerv.dev)
-- 🌱 I'm currently learning <b>Oracle Cloud Infrastructure</b> and <b>Project Management</b>.
+- 🌱 I'm currently learning <b>Project Management</b>.
 - 💬 Ask me about JavaScript, React, Redux, Node.js
 
 
@@ -49,7 +49,6 @@ I'm always engaged in continuous learning to improve myself both professionally 
 
 ✔ Linkedin: <a href="https://www.linkedin.com/in/mariela-ramirez-valle/">https://www.linkedin.com/in/mariela-ramirez-valle/</a> <br/>
 ✔ E-mail: magaerv.dev@gmail.com <br/>
-✔ Web site: <a href="https://magaerv.dev">https://magaerv.dev</a> <br/>
-✔ Twitter: <a href="https://twitter.com/m4riel4r">@m4riel4r</a> <br/>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07c28f&height=120&section=footer"/>
